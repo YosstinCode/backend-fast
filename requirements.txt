@@ -1,4 +1,4 @@
 uvicorn
 fastapi
-pupl
+pupl==2.9.0
 pydantic
